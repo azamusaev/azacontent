@@ -1,0 +1,46 @@
+.container { 
+    background-color: white;
+    width: 1349px;
+    padding: auto;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+.box { 
+    text-align: left;
+    width: 1000px;
+    margin-left: 160px;
+}
+
+.parent { 
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin-left: 300px;
+    padding-top: 50px;
+    font-weight: 500;
+    font-size: 14px;
+    
+} 
+
+.hr { 
+    margin-top: 0px;
+}
+
+.author { 
+    margin-top: 30px;
+    margin-left: 480px;
+    font-size: 12px;
+    
+}
+
+.copyright { 
+    margin-top: 30px;
+    margin-left: 450px;
+    padding-bottom: 20px;
+    font-size: 10px;
+    
+}
+
+li{
+    margin-top: 12px;
+}

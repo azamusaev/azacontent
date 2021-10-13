@@ -1,0 +1,28 @@
+.startbutton { 
+    width: 150px;
+    height: 60px;
+    font-size: 30px;
+    margin-left: 10px;
+    font-weight: 700;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: none;
+    background-color: white;
+}
+
+.startbutton.pomofocus{
+    color: #DB524D;
+}
+
+.startbutton.shortBreak{
+    color: #4C8385;
+}
+
+.startbutton.longBreak{
+    color: #497697;
+}
+
+.startdiv { 
+    margin-right: 70px;
+    
+}
